@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "666079728885",
+    "project_id": "darewiz",
+    "storage_bucket": "darewiz.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:666079728885:android:76221991c9b728656361bc",
+        "android_client_info": {
+          "package_name": "com.example.darewiz"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "666079728885-of9bijmbu21i8l2rhie5oh1snehg71au.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBQQ1Z9nAOJBpVcWXXC_pq4LFwi9ZcFVJc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "666079728885-of9bijmbu21i8l2rhie5oh1snehg71au.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

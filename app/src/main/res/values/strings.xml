@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">DareWiz</string>
+    <string name="login">Login</string>
+    <string name="email">email</string>
+    <string name="password">password</string>
+    <string name="register">Register</string>
+    <string name="ab_login_kar_na_mc">Ab login kar na MC</string>
+    <string name="naya_hain_kya_register">naya hain kya(register)</string>
+    <string name="logout">Logout</string>
+</resources>
